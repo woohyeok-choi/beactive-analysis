@@ -1,0 +1,11 @@
+openpyxl
+xlrd
+pymysql
+xgboost
+imblearn
+networkx
+numpy
+pandas
+PyWavelets
+scikit-learn
+pandas
