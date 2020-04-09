@@ -8,4 +8,11 @@ numpy
 pandas
 PyWavelets
 scikit-learn
-pandas
+scikit-multilearn
+ray
+ipython-sql
+jupyterlab
+plotly
+plotly-geo
+psutil
+setproctitle
